@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8914171b4f40a564399e65f566e55412, type: 3}
+  m_Name: A33
+  m_EditorClassIdentifier: 
+  shipName: A-33 Salatin
+  year: 1918
+  prefab: {fileID: 8958105583684529886, guid: 8d9c08b0d4ebeb94886cf02042ede5b5, type: 3}
+  previousShip: {fileID: 0}
+  origin: {fileID: 11400000, guid: 93d34a4fc9412ed4c8fa63cf56e7fe0c, type: 2}
+  buttonPosition: {x: 0, y: 0}
+  length: 50
+  diameter: 15
+  structure: Non-rigid
+  gas: Hydrogen
+  volume: 5000
+  crewCapacity: 2
+  crewAssignment: 1
+  passengerCapacity: 1
+  cargoCapacity: 500
+  maxSpeed: 15.5
+  ceiling: 2000
+  range: 2000000
+  description: 

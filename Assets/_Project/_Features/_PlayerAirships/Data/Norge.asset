@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8914171b4f40a564399e65f566e55412, type: 3}
+  m_Name: Norge
+  m_EditorClassIdentifier: 
+  shipName: N-1 Norge
+  year: 1924
+  prefab: {fileID: 8958105583684529886, guid: 8d9c08b0d4ebeb94886cf02042ede5b5, type: 3}
+  previousShip: {fileID: 11400000, guid: aa9bca8997939c34696773f12bb65aca, type: 2}
+  origin: {fileID: 11400000, guid: fcb61b605fe187b438d7c91fa20feced, type: 2}
+  buttonPosition: {x: 300, y: -100}
+  length: 106
+  diameter: 26
+  structure: Semi-rigid
+  gas: Hydrogen
+  volume: 19000
+  crewCapacity: 16
+  crewAssignment: 2
+  passengerCapacity: 10
+  cargoCapacity: 3000
+  maxSpeed: 32
+  ceiling: 1000
+  range: 5300000
+  description: 

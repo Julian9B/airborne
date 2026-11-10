@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8914171b4f40a564399e65f566e55412, type: 3}
+  m_Name: A57
+  m_EditorClassIdentifier: 
+  shipName: A-57 Gerlach
+  year: 1930
+  prefab: {fileID: 8958105583684529886, guid: 8d9c08b0d4ebeb94886cf02042ede5b5, type: 3}
+  previousShip: {fileID: 11400000, guid: 59e1d727ae034a243a5f133c70237ad1, type: 2}
+  origin: {fileID: 11400000, guid: 93d34a4fc9412ed4c8fa63cf56e7fe0c, type: 2}
+  buttonPosition: {x: 300, y: -100}
+  length: 218
+  diameter: 40
+  structure: Rigid
+  gas: Hydrogen
+  volume: 140000
+  crewCapacity: 34
+  crewAssignment: 2
+  passengerCapacity: 80
+  cargoCapacity: 15000
+  maxSpeed: 40
+  ceiling: 2500
+  range: 7500000
+  description: 

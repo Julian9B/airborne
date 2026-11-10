@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8914171b4f40a564399e65f566e55412, type: 3}
+  m_Name: Dixmude
+  m_EditorClassIdentifier: 
+  shipName: Dixmude
+  year: 1920
+  prefab: {fileID: 8958105583684529886, guid: 8d9c08b0d4ebeb94886cf02042ede5b5, type: 3}
+  previousShip: {fileID: 11400000, guid: d8eac12ec78e2614f8524232a4d86a92, type: 2}
+  origin: {fileID: 11400000, guid: 5a428ce907977e04da198a56a2816862, type: 2}
+  buttonPosition: {x: 300, y: -100}
+  length: 226.52
+  diameter: 23.9
+  structure: Rigid
+  gas: Hydrogen
+  volume: 68490
+  crewCapacity: 42
+  crewAssignment: 3
+  passengerCapacity: 10
+  cargoCapacity: 4000
+  maxSpeed: 36.5
+  ceiling: 6000
+  range: 12000000
+  history: Dixmude was a Zeppelin built for the Imperial German Navy as L 72 (LZ
+    114) and unfinished at the end of the First World War, when it was given to France
+    as war reparations and recommissioned for service in the French Navy. On 21 December
+    1923 it was lost during a thunderstorm over Mediterranean, killing everyone onboard.

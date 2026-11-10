@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8914171b4f40a564399e65f566e55412, type: 3}
+  m_Name: R36
+  m_EditorClassIdentifier: 
+  shipName: R36
+  year: 1921
+  prefab: {fileID: 8958105583684529886, guid: 8d9c08b0d4ebeb94886cf02042ede5b5, type: 3}
+  previousShip: {fileID: 11400000, guid: 718f86dc4743d214b9a3928ed16de454, type: 2}
+  origin: {fileID: 11400000, guid: 866f86aa6613bf041ac277e137ba79ff, type: 2}
+  buttonPosition: {x: 300, y: -100}
+  length: 206
+  diameter: 23.9
+  structure: Rigid
+  gas: Hydrogen
+  volume: 59500
+  crewCapacity: 28
+  crewAssignment: 2
+  passengerCapacity: 50
+  cargoCapacity: 20000
+  maxSpeed: 29
+  ceiling: 2000
+  range: 1180000
+  description: 

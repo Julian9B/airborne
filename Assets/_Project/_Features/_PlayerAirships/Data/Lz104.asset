@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8914171b4f40a564399e65f566e55412, type: 3}
+  m_Name: Lz104
+  m_EditorClassIdentifier: 
+  shipName: L-59
+  year: 1917
+  prefab: {fileID: 8958105583684529886, guid: 8d9c08b0d4ebeb94886cf02042ede5b5, type: 3}
+  previousShip: {fileID: 0}
+  origin: {fileID: 11400000, guid: 62ec4860ec42a9d41b7fb39661489192, type: 2}
+  buttonPosition: {x: 0, y: 0}
+  length: 226.5
+  diameter: 23.9
+  structure: Rigid
+  gas: Hydrogen
+  volume: 68470
+  crewCapacity: 22
+  crewAssignment: 2
+  passengerCapacity: 8
+  cargoCapacity: 4000
+  maxSpeed: 28.8
+  ceiling: 6600
+  range: 6800000
+  description: 
