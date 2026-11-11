@@ -6,6 +6,36 @@
 
 AIRBORNE is a hobby project created as a personal learning journey to master Unity and C#. It is a Unity-based open-world airship flight simulator, designed to provide both realistic simulation and enjoyable gameplay, aiming to feature real-life vehicles and locations from around the world.
 
+## 🖼️ Gallery
+
+<p align="center">
+  <figure style="text-align: center;">
+    <img src=".github/images/game-ui.png" alt="Airship over the sea, with a control panel and a crew assignment menu">
+    <figcaption><i>Img.1. Interface: Temporary game UI and crew management menu.</i></figcaption>
+  </figure>
+</p>
+
+<p align="center">
+  <figure style="text-align: center;">
+    <img src=".github/images/mooring-test.png" alt="Airship docked to a mast">
+    <figcaption><i>Img.2. Gameplay: docking to a test mooring mast.</i></figcaption>
+  </figure>
+</p>
+
+<p align="center">
+  <figure style="text-align: center;">
+    <img src=".github/images/unity-editor-view.png" alt="Unity editor window showing the game view, hierarchy, and assets">
+    <figcaption><i>Img.3. Work in progress: The project opened in Unity editor.</i></figcaption>
+  </figure>
+</p>
+
+<p align="center">
+  <figure style="text-align: center;">
+    <img src=".github/images/blender-editor-view.png" alt="Airship model opened in Blender">
+    <figcaption><i>Img.4. From Blender to Unity: Custom 3D airship modeling.</i></figcaption>
+  </figure>
+</p>
+
 ## 🗺️ Project Roadmap
 
 This roadmap outlines the development milestones for AIRBORNE. Since the project is in an early stage, priorities may shift as learning progresses.
@@ -37,6 +67,7 @@ This roadmap outlines the development milestones for AIRBORNE. Since the project
 
 ### Systems & Features
 * 🟩 Crew management
+* 🟩 Third-person and free-camera modes
 * 🟨 Vehicle tree system for switching between different airships
 * 🟨 Locations system for choosing different starting locations
 * ⬜ Multiple variants of some vehicles
